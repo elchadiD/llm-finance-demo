@@ -1,0 +1,32 @@
+# Logs and audit trails (sensitive)
+logs/
+*.log
+audit*.csv
+
+# Real client data (NEVER push)
+data/
+*.xlsx
+client_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.env
+
+# Database files
+*.db
+*.duckdb

@@ -1,0 +1,51 @@
+loan_id,borrower_name,loan_amount,interest_rate,status,origination_date,lender,loan_type,term_months,credit_score
+L001,Acme Corporation,250000,4.5,Active,2023-01-15,JPMorgan Chase,Commercial,60,720
+L002,TechStart Inc,150000,5.2,Active,2023-02-20,Wells Fargo,SBA,84,680
+L003,Manufacturing Ltd,500000,3.8,Paid Off,2022-06-10,JPMorgan Chase,Commercial,120,750
+L004,Retail Solutions LLC,75000,6.1,Active,2023-03-05,Bank of America,SBA,60,640
+L005,Energy Systems Corp,1000000,3.5,Active,2023-01-01,JPMorgan Chase,Commercial,180,780
+L006,Construction Co Inc,300000,5.5,Active,2023-04-12,Wells Fargo,Commercial,84,690
+L007,Finance Trust Group,125000,4.2,Defaulted,2022-12-01,Bank of America,Commercial,60,580
+L008,Real Estate Group,450000,4.0,Active,2023-05-20,JPMorgan Chase,Mortgage,360,740
+L009,Healthcare Partners,650000,3.9,Active,2023-06-15,Citibank,Commercial,120,760
+L010,Logistics Express,180000,5.8,Active,2023-07-08,Wells Fargo,Equipment,72,670
+L011,Green Energy LLC,2500000,3.2,Active,2023-08-22,JPMorgan Chase,Commercial,240,810
+L012,Food Service Inc,95000,6.5,Active,2023-09-10,Bank of America,SBA,60,650
+L013,Auto Parts Co,220000,5.0,Active,2023-10-05,Wells Fargo,Equipment,84,700
+L014,Tech Innovators,400000,4.3,Active,2023-11-12,Citibank,Commercial,96,730
+L015,Marine Industries,750000,4.1,Active,2023-12-01,JPMorgan Chase,Commercial,120,755
+L016,Cloud Services Ltd,320000,4.8,Active,2024-01-15,Wells Fargo,Commercial,72,710
+L017,Pharma Solutions,1200000,3.6,Active,2024-02-20,Citibank,Commercial,180,790
+L018,Restaurant Group,85000,7.2,Defaulted,2023-03-15,Bank of America,SBA,60,560
+L019,Software Dynamics,275000,4.7,Active,2024-03-10,JPMorgan Chase,Commercial,84,720
+L020,Transport Logistics,420000,5.3,Active,2024-04-22,Wells Fargo,Equipment,96,680
+L021,Biotech Research,890000,3.8,Active,2024-05-08,Citibank,Commercial,144,775
+L022,Hotel Chain Corp,1500000,4.2,Active,2024-06-15,JPMorgan Chase,Commercial,240,765
+L023,Fashion Retail Inc,165000,5.9,Active,2024-07-01,Bank of America,SBA,72,660
+L024,Industrial Tools,335000,4.6,Active,2024-08-12,Wells Fargo,Equipment,84,715
+L025,Educational Services,210000,4.4,Paid Off,2022-09-20,JPMorgan Chase,SBA,60,705
+L026,Aerospace Tech,2200000,3.4,Active,2024-09-05,Citibank,Commercial,180,800
+L027,Beverage Distribution,145000,5.7,Active,2024-10-10,Wells Fargo,SBA,60,675
+L028,Mining Operations,980000,4.5,Active,2024-11-22,JPMorgan Chase,Commercial,120,750
+L029,Print Media Group,68000,6.8,Defaulted,2023-05-15,Bank of America,SBA,48,590
+L030,Renewable Power,1750000,3.3,Active,2024-12-08,Citibank,Commercial,240,795
+L031,Furniture Makers,195000,5.4,Active,2025-01-15,Wells Fargo,Commercial,72,685
+L032,Data Analytics Co,385000,4.5,Active,2025-02-20,JPMorgan Chase,Commercial,84,725
+L033,Agricultural Coop,560000,4.0,Active,2025-03-10,Citibank,Commercial,120,740
+L034,Wellness Center,115000,6.2,Active,2025-04-05,Bank of America,SBA,60,645
+L035,Robotics Systems,720000,3.9,Active,2025-05-12,JPMorgan Chase,Commercial,108,770
+L036,Insurance Brokers,290000,4.6,Active,2025-06-22,Wells Fargo,Commercial,84,710
+L037,E-commerce Platform,455000,4.3,Active,2025-07-15,Citibank,Commercial,96,735
+L038,Security Services,175000,5.5,Active,2025-08-01,Bank of America,Commercial,72,690
+L039,Pet Care Industries,98000,6.0,Active,2025-09-10,Wells Fargo,SBA,60,665
+L040,Quantum Computing,3500000,3.1,Active,2025-10-20,JPMorgan Chase,Commercial,240,820
+L041,Beverage Brewers,265000,5.1,Active,2025-11-15,Citibank,Commercial,84,705
+L042,Solar Installation,425000,3.7,Active,2025-12-01,JPMorgan Chase,Commercial,120,760
+L043,Mobile Apps Inc,155000,5.6,Active,2026-01-10,Wells Fargo,SBA,72,680
+L044,Defense Contractors,1850000,3.5,Active,2026-02-05,Citibank,Commercial,180,810
+L045,Cleaning Services,82000,6.4,Active,2026-03-12,Bank of America,SBA,60,655
+L046,Cybersecurity Firm,540000,4.1,Active,2026-04-22,JPMorgan Chase,Commercial,96,745
+L047,Mortgage Lenders,925000,4.4,Active,2026-05-01,Wells Fargo,Mortgage,360,755
+L048,Gaming Studios,310000,4.9,Active,2025-08-15,Citibank,Commercial,84,720
+L049,Textile Manufacturing,235000,5.3,Paid Off,2022-04-10,JPMorgan Chase,Commercial,72,700
+L050,AI Research Lab,1450000,3.6,Active,2026-05-10,Citibank,Commercial,180,790
