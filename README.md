@@ -10,8 +10,7 @@ Built for finance executives who need instant insights without waiting for IT or
 
 ## ⚡ The Problem
 
-Finance teams sit on dozens of Excel spreadsheets but can't get fast answers:
-- 📊 Want to know total exposure by lender? → Wait for analyst
+Finance teams sit on piles of Excel spreadsheets but can't get fast answers:
 - 📈 Need defaulted loan trends? → Build a pivot table
 - 💼 Quarterly review tomorrow? → Hope someone has time
 
